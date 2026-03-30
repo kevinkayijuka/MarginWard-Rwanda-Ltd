@@ -67,7 +67,7 @@ If you're an agro-processor in Rwanda and this resonates, let's talk.
 
 **Kevin**
 Founder, MarginWard Rwanda LTD
-📧 [your email]
+📧 [marginwardrw@gmail.com]
 🔗 [LinkedIn URL]
 
 ---
