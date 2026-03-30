@@ -1,75 +1,75 @@
 # MarginWard Rwanda
 
-We are a Data-driven consultancy helping agro-processors find where they bleed capital and stop it.
-
-Scaling an agro-processing business in Rwanda is hard enough. What makes it harder is that capital doesn't disappear in one obvious place — it bleeds quietly across the entire operation. A little in post-harvest loss. A little in logistics. A little in payments that don't move on time. A little in sourcing zones that cost more than they should.
-
-MarginWard Rwanda maps the full picture. We use Rwanda's agricultural data to show you exactly where your business is losing money — at every stage from farm to processor — so your decisions are backed by evidence, not instinct.
+**We help agro-businesses and cooperatives make evidence-based sourcing decisions — so when they go to a funder, they can back their claims with data instead of gut feel.**
 
 ---
 
-## What we do
+Rwanda's agro-processing sector is growing. But most businesses scaling right now are making sourcing, pricing, and supply decisions without a clear data picture. That gap costs money — in bad seasons, unreliable suppliers, and funding applications that fall flat because the numbers aren't there.
 
-Capital bleed in agro-processing rarely has one source. We diagnose it across the entire value chain:
+MarginWard closes that gap.
 
-**Post-harvest loss** — Where is produce being lost between farm and facility, and what is it actually costing you per season?
-
-**Sourcing inefficiencies** — Are you sourcing from the right zones? Distance, supply density, and reliability all affect your true cost per unit.
-
-**Storage & spoilage** — What does spoilage look like at your current scale, and how does it compound as you grow?
-
-**Logistics & transport costs** — Are your transport routes optimized, or are you absorbing silent costs that don't show up until margin review?
-
-**Pricing blind spots** — Are you buying and selling with a clear view of seasonal price trends, or are you consistently on the wrong side of the market?
-
-**Payment & cash flow gaps** — Where are payment delays creating working capital pressure, and how does that affect your ability to source at volume?
-
-Each engagement is data-driven and specific to your business — built on Rwanda's publicly available agricultural data including seasonal reports, production surveys, household data, and market price series.
+We use Rwanda's publicly available agricultural data — six years of NISR seasonal surveys across all 30 districts — to show agro-businesses exactly where their supply chain is exposed, and give them the evidence to act on it.
 
 ---
 
-## Who this is for
+## Who we work with
 
-Agro-processors who are past survival stage and actively scaling , and who need decisions backed by data, not a feeling.
+- Agro-processors scaling their operations
+- Cooperatives preparing for funding or buyer negotiations
+- Business development organizations supporting agribusiness SMEs
 
-If capital is leaking somewhere in your operation and you can't pinpoint exactly where, that's the problem we solve.
+---
+
+## What a typical engagement looks like
+
+**You come to us with a question:**
+- Which districts should we source from as we scale?
+- How exposed are we to supply volatility in our key input zones?
+- What data do we need to strengthen our funding application?
+
+**We come back with an answer — in data, in plain language, and in a format you can use.**
+
+Every engagement is built on Rwanda's official agricultural data and delivered as a clear report with specific recommendations. No generic analysis. No recycled sector reports. Your operation, your sourcing zones, your numbers.
 
 ---
 
 ## Featured work
 
-### Perishable Sourcing Risk Analysis — National Poultry Proxy
-*Applicable to poultry processors & chilli supply chains*
+### Perishable Sourcing Risk Analysis
+*Poultry & chilli supply chains*
 
-**Business question:** Which districts should a scaling agro-processor prioritize for poultry sourcing — and which ones are quietly bleeding capital through logistics and spoilage?
+**The question:** Which districts should a scaling agro-processor prioritize for sourcing — and which ones quietly bleed capital through logistics and spoilage?
 
-**Key finding:** Eastern and Southern districts (Bugesera, Kamonyi, Rwamagana) offer the strongest combination of supply density and proximity to Kigali. Western districts such as Rusizi, Rubavu, and Nyamasheke sit beyond the 100km threshold with comparatively lower supply — making them high-risk zones for perishable sourcing at scale.
+**The finding:** Eastern and Southern districts — Bugesera, Kamonyi, Rwamagana — offer the strongest combination of supply density and proximity to Kigali. Western districts beyond 100km carry significantly higher logistics and spoilage risk at scale.
 
-**Recommendation:** Prioritize Eastern/Southern sourcing zones for volume growth. Avoid Western districts as primary sourcing zones unless logistics infrastructure is explicitly budgeted for.
-
-![Perishable Sourcing Risk Chart](projects/poultry-sourcing/visuals/sourcing-risk-scatter.png)
+[View project →](projects/poultry-sourcing/README.md)
 
 ---
 
-## Current projects
+### District Reliability Index
+*All agro-processing sectors*
 
-| Project | Sector | Focus |
-|---|---|---|
-| Perishable sourcing risk analysis | Poultry / Chilli | Supply zone mapping, logistics risk, sourcing prioritization |
+**The question:** Which Rwandan districts are consistently productive year after year — not just in a good season, but reliably, across six years of data?
 
-*More projects added as client work and public data permit.*
+**The finding:** Ngoma and Gakenke are the most consistent high-volume districts within 100km of Kigali. Nyagatare leads in volume but carries higher volatility. Ngororero is the riskiest district within 100km despite its proximity.
+
+[View project →](projects/district-reliability-index/README.md)
 
 ---
 
-## How to engage
+## Data
 
-If you're an agro-processor in Rwanda and this resonates, let's talk.
+All analysis is built on the NISR Seasonal Agricultural Survey — Rwanda's official agricultural census published annually. Six years of data. All 30 districts. Maize, beans, soybean, vegetables, and more.
 
-**Kevin**
+---
+
+## Let's talk
+
+If you're an agro-business, cooperative, or organization working with Rwanda's agricultural sector and you need data that actually answers a business question — reach out.
+
+**Kevin Kayijuka**
 Founder, MarginWard Rwanda LTD
-📧 [marginwardrw@gmail.com]
-🔗 [LinkedIn URL]
-
----
+REG-2026-513827
+📧 marginwardnw@gmail.com
 
 *MarginWard Rwanda is a registered Rwandan consultancy.*
