@@ -58,8 +58,8 @@ understand system-level risk before it manifests financially
 | Nyagatare | High volume, but unstable         |
 | Bugesera  | Structural decline, high risk     |
 
-**What this is,and is not
-**
+**What this is,and is not**
+
 This is:
 
 system-level agricultural risk analysis
