@@ -2,7 +2,7 @@
 
 We analyze agricultural systems to identify where capital is exposed to risk — and how to reduce it.
 
----
+
 
 ## What This Work Addresses
 
@@ -19,7 +19,7 @@ This leads to:
 - Inefficient sourcing decisions  
 - Mispriced agricultural risk  
 
----
+
 
 ## What Was Analyzed
 
@@ -30,7 +30,7 @@ Using NISR seasonal agricultural data (2020–2025) across all districts, we exa
 - Regional supply stability  
 - Structural production trends  
 
----
+
 
 ## Case: Maize Supply Risk Near Kigali
 
@@ -51,7 +51,7 @@ Proximity-based sourcing exposes businesses to:
 - Cost instability  
 - Unpredictable input availability  
 
----
+
 
 ## What This Enables
 
@@ -62,7 +62,7 @@ This analysis allows operators and lenders to:
 - Reduce exposure to supply shocks  
 - Understand system-level risk before financial impact  
 
----
+
 
 ## Example: District Reliability (Maize)
 
@@ -73,7 +73,7 @@ This analysis allows operators and lenders to:
 | Nyagatare    | High volume, but unstable                   |
 | Bugesera     | Structural decline, high risk               |
 
----
+
 
 ## What This Is , and Is Not
 
@@ -86,7 +86,7 @@ This analysis allows operators and lenders to:
 - Financial modeling  
 - Farm-level data collection  
 
----
+
 
 ## This Matters Because: 
 
@@ -99,7 +99,7 @@ Understanding this distinction enables:
 - More stable margins  
 - More informed lending strategies  
 
----
+
 
 ## Current Focus
 
@@ -107,7 +107,7 @@ Understanding this distinction enables:
 - Expanding crop-level risk analysis  
 - Translating macro insights into decision support for agricultural finance  
 
----
+
 
 ## Contact
 
