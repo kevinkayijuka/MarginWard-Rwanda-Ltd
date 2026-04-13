@@ -75,7 +75,7 @@ This analysis allows operators and lenders to:
 
 ---
 
-## What This Is — and Is Not
+## What This Is , and Is Not
 
 ### This is:
 - System-level agricultural risk analysis  
@@ -88,7 +88,7 @@ This analysis allows operators and lenders to:
 
 ---
 
-## Why This Matters
+## This Matters Because: 
 
 Agricultural risk in Rwanda is often misunderstood as individual failure,  
 when it is frequently structural and predictable.
