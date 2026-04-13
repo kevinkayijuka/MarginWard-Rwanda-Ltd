@@ -1,75 +1,91 @@
-# MarginWard Rwanda
+MarginWard Rwanda LTD
 
-**We help agro-businesses and cooperatives make evidence-based sourcing decisions — so when they go to a funder, they can back their claims with data instead of gut feel.**
+We analyze agricultural systems to identify where capital is exposed to risk — and how to reduce it.
 
----
+What this work addresses
 
-Rwanda's agro-processing sector is growing. But most businesses scaling right now are making sourcing, pricing, and supply decisions without a clear data picture. That gap costs money — in bad seasons, unreliable suppliers, and funding applications that fall flat because the numbers aren't there.
+Agricultural businesses and lenders in Rwanda operate with:
 
-MarginWard closes that gap.
+unpredictable supply
+seasonal volatility
+fragmented data
+limited visibility into regional risk
 
-We use Rwanda's publicly available agricultural data — six years of NISR seasonal surveys across all 30 districts — to show agro-businesses exactly where their supply chain is exposed, and give them the evidence to act on it.
+This leads to:
 
----
+unstable input costs
+inefficient sourcing decisions
+mispriced risk in agricultural finance
+What was analyzed
 
-## Who we work with
+Using NISR seasonal agricultural data (2020–2025) across all districts, we examined:
 
-- Agro-processors scaling their operations
-- Cooperatives preparing for funding or buyer negotiations
-- Business development organizations supporting agribusiness SMEs
+production consistency (coefficient of variation)
+seasonal volatility patterns
+regional supply stability
+structural production trends
+Case: Maize Supply Risk Near Kigali
+Problem
 
----
+Agro-processors sourcing maize near Kigali assume proximity = reliability.
 
-## What a typical engagement looks like
+Finding
 
-**You come to us with a question:**
-- Which districts should we source from as we scale?
-- How exposed are we to supply volatility in our key input zones?
-- What data do we need to strengthen our funding application?
+Data shows:
 
-**We come back with an answer — in data, in plain language, and in a format you can use.**
+all nearby districts exhibit high production volatility
+some high-output districts are structurally unstable
+certain regions show declining production trends over time
+Implication
 
-Every engagement is built on Rwanda's official agricultural data and delivered as a clear report with specific recommendations. No generic analysis. No recycled sector reports. Your operation, your sourcing zones, your numbers.
+Proximity-based sourcing exposes businesses to hidden supply risk and cost instability
 
----
+**What this enables
+**
+This analysis allows operators and lenders to:
 
-## Featured work
+identify reliable vs volatile sourcing zones
+adjust sourcing strategies by region and season
+reduce exposure to supply shocks
+understand system-level risk before it manifests financially
 
-### Perishable Sourcing Risk Analysis
-*Poultry & chilli supply chains*
+**Example: District Reliability (Maize)**
 
-**The question:** Which districts should a scaling agro-processor prioritize for sourcing — and which ones quietly bleed capital through logistics and spoilage?
+| District  | Reliability Insight               |
+| --------- | --------------------------------- |
+| Gakenke   | High consistency, stable supply   |
+| Ngoma     | Strong output with low volatility |
+| Nyagatare | High volume, but unstable         |
+| Bugesera  | Structural decline, high risk     |
 
-**The finding:** Eastern and Southern districts — Bugesera, Kamonyi, Rwamagana — offer the strongest combination of supply density and proximity to Kigali. Western districts beyond 100km carry significantly higher logistics and spoilage risk at scale.
+**What this is,and is not
+**
+This is:
 
-[View project →](projects/poultry-sourcing/README.md)
+system-level agricultural risk analysis
+macro intelligence for decision-making
 
----
+This is not:
 
-### District Reliability Index
-*All agro-processing sectors*
+borrower-level credit scoring
+financial modeling
+farm-level data collection
+Why this matters
 
-**The question:** Which Rwandan districts are consistently productive year after year — not just in a good season, but reliably, across six years of data?
+Agricultural risk in Rwanda is often misunderstood as individual failure,
+when it is frequently structural and predictable.
 
-**The finding:** Ngoma and Gakenke are the most consistent high-volume districts within 100km of Kigali. Nyagatare leads in volume but carries higher volatility. Ngororero is the riskiest district within 100km despite its proximity.
+**Understanding this distinction allows:**
 
-[View project →](projects/district-reliability-index/README.md)
+better sourcing decisions
+more stable margins
+more informed lending strategies
+Current focus
+refining district-level reliability models
+expanding crop-level risk analysis
+translating macro insights into decision support for agricultural finance
+Contact
 
----
+**MarginWard Rwanda LTD
+Kigali, Rwanda**
 
-## Data
-
-All analysis is built on the NISR Seasonal Agricultural Survey — Rwanda's official agricultural census published annually. Six years of data. All 30 districts. Maize, beans, soybean, vegetables, and more.
-
----
-
-## Let's talk
-
-If you're an agro-business, cooperative, or organization working with Rwanda's agricultural sector and you need data that actually answers a business question — reach out.
-
-**Kevin Kayijuka**
-Founder, MarginWard Rwanda LTD
-REG-2026-513827
-📧 marginwardnw@gmail.com
-
-*MarginWard Rwanda is a registered Rwandan consultancy.*
