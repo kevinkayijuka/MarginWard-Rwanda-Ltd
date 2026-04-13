@@ -1,91 +1,115 @@
-MarginWard Rwanda LTD
+# MarginWard Rwanda LTD
 
 We analyze agricultural systems to identify where capital is exposed to risk — and how to reduce it.
 
-What this work addresses
+---
+
+## What This Work Addresses
 
 Agricultural businesses and lenders in Rwanda operate with:
 
-unpredictable supply
-seasonal volatility
-fragmented data
-limited visibility into regional risk
+- Unpredictable supply  
+- Seasonal volatility  
+- Fragmented data  
+- Limited visibility into regional risk  
 
 This leads to:
 
-unstable input costs
-inefficient sourcing decisions
-mispriced risk in agricultural finance
-What was analyzed
+- Unstable input costs  
+- Inefficient sourcing decisions  
+- Mispriced agricultural risk  
+
+---
+
+## What Was Analyzed
 
 Using NISR seasonal agricultural data (2020–2025) across all districts, we examined:
 
-production consistency (coefficient of variation)
-seasonal volatility patterns
-regional supply stability
-structural production trends
-Case: Maize Supply Risk Near Kigali
-Problem
+- Production consistency (coefficient of variation)  
+- Seasonal volatility patterns  
+- Regional supply stability  
+- Structural production trends  
 
-Agro-processors sourcing maize near Kigali assume proximity = reliability.
+---
 
-Finding
+## Case: Maize Supply Risk Near Kigali
 
+### Problem
+Agro-processors sourcing maize near Kigali assume proximity equals reliability.
+
+### Finding
 Data shows:
 
-all nearby districts exhibit high production volatility
-some high-output districts are structurally unstable
-certain regions show declining production trends over time
-Implication
+- All nearby districts exhibit high production volatility  
+- Some high-output districts are structurally unstable  
+- Certain regions show declining production trends over time  
 
-Proximity-based sourcing exposes businesses to hidden supply risk and cost instability
+### Implication
+Proximity-based sourcing exposes businesses to:
 
-**What this enables
-**
+- Hidden supply risk  
+- Cost instability  
+- Unpredictable input availability  
+
+---
+
+## What This Enables
+
 This analysis allows operators and lenders to:
 
-identify reliable vs volatile sourcing zones
-adjust sourcing strategies by region and season
-reduce exposure to supply shocks
-understand system-level risk before it manifests financially
+- Identify reliable vs volatile sourcing zones  
+- Adjust sourcing strategies by region and season  
+- Reduce exposure to supply shocks  
+- Understand system-level risk before financial impact  
 
-**Example: District Reliability (Maize)**
+---
 
-| District  | Reliability Insight               |
-| --------- | --------------------------------- |
-| Gakenke   | High consistency, stable supply   |
-| Ngoma     | Strong output with low volatility |
-| Nyagatare | High volume, but unstable         |
-| Bugesera  | Structural decline, high risk     |
+## Example: District Reliability (Maize)
 
-**What this is,and is not**
+| District     | Reliability Insight                         |
+|--------------|---------------------------------------------|
+| Gakenke      | High consistency, stable supply             |
+| Ngoma        | Strong output with low volatility           |
+| Nyagatare    | High volume, but unstable                   |
+| Bugesera     | Structural decline, high risk               |
 
-This is:
+---
 
-system-level agricultural risk analysis
-macro intelligence for decision-making
+## What This Is — and Is Not
 
-This is not:
+### This is:
+- System-level agricultural risk analysis  
+- Macro intelligence for decision-making  
 
-borrower-level credit scoring
-financial modeling
-farm-level data collection
-Why this matters
+### This is not:
+- Borrower-level credit scoring  
+- Financial modeling  
+- Farm-level data collection  
 
-Agricultural risk in Rwanda is often misunderstood as individual failure,
+---
+
+## Why This Matters
+
+Agricultural risk in Rwanda is often misunderstood as individual failure,  
 when it is frequently structural and predictable.
 
-**Understanding this distinction allows:**
+Understanding this distinction enables:
 
-better sourcing decisions
-more stable margins
-more informed lending strategies
-Current focus
-refining district-level reliability models
-expanding crop-level risk analysis
-translating macro insights into decision support for agricultural finance
-Contact
+- Better sourcing decisions  
+- More stable margins  
+- More informed lending strategies  
 
-**MarginWard Rwanda LTD
-Kigali, Rwanda**
+---
 
+## Current Focus
+
+- Refining district-level reliability models  
+- Expanding crop-level risk analysis  
+- Translating macro insights into decision support for agricultural finance  
+
+---
+
+## Contact
+
+MarginWard Rwanda LTD  
+Kigali, Rwanda
